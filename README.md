@@ -1,6 +1,9 @@
-# Project
-1. Download zip
-2. Extract the zip file
-3. Select(Ctrl+a) then Cut(Ctrl+x) the folder
-4. Paste(Ctrl+v) into parent folder\
-**Note: There is a missing tile**
+# irDemo
+
+Arduino library to recieve signals from an ir Remote.
+
+## Description
+
+This is a simple Arduino library used to demonstrate how you can extend the functionality of Arduino.
+
+This library example is used in the [Writing a Library for Arduino tutorial](https://docs.arduino.cc/learn/contributions/arduino-creating-library-guide).

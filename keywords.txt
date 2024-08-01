@@ -1,0 +1,3 @@
+irDemo   KEYWORD1
+begin   KEYWORD2
+test KEYWORD2
